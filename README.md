@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Guilherme 
 
 - 🎓 Estudante de Engenharia de Software  
-- 🔐 Apaixonado por Cibersegurança  
-- 🧠 Curioso por tecnologia, redes e automação  
-- 📍 Carapicuíba - SP  
+- 🔐 interessado por Cibersegurança
+- ⚙️ Programador Back end 
+- 🧠 Curioso por tecnologia
 - 🚀 Em busca de oportunidades para atuar com segurança da informação
 
 ---
@@ -19,11 +19,6 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-4B8BBE?style=flat&logo=gnubash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-das-Chagas&layout=compact&theme=tokyonight)
 
 ## 🎓 Formação
 
