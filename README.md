@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Guilherme!
 
-<!--
-**Guilherme-das-Chagas/Guilherme-das-Chagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+🔐 Entusiasta de Cibersegurança  
+💻 Curioso por tecnologia e inovação  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que eu curto fazer
+- Brincar com **Kali Linux** e explorar ferramentas de segurança  
+- Testar vulnerabilidades e pensar como um atacante (pra defender melhor 😉)  
+- Programar em **Java (Spring Boot)** e **Python**  
+- Mexer com **Windows** e **Linux** sem medo  
+- Analisar tráfego de rede com **Wireshark** e **Nmap**  
+
+---
+
+## 💼 Experiências
+- **Estagiário de TI na Sabesp** – suporte, infraestrutura e projetos de TI  
+- **Jovem Aprendiz na Minsait** – requisitos, QA e desenvolvimento back-end  
+
+---
+
+## 🎓 Formação
+- Engenharia de Software – São Judas (cursando)   
+
+---
+
+## 📜 Certificações
+- Endpoint Security – Cisco Networking Academy  
+- Cyber Academy – FEBRABAN CyberLab  
+- Bootcamp Cybersecurity Specialist – DIO  
+
+
+
+✨ Sempre aprendendo, sempre curioso. Se quiser trocar ideia sobre segurança, programação ou projetos, só chamar!
