@@ -25,7 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-das-Chagas&layout=compact&theme=tokyonight)
 
-
 ## 🎓 Formação
 
 - Engenharia de Software – Universidade São Judas (cursando)    
