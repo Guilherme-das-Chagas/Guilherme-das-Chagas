@@ -4,7 +4,7 @@
 - 🔐 interessado por Cibersegurança
 - ⚙️ Programador Back end 
 - 🧠 Curioso por tecnologia
-- 🚀 Em busca de oportunidades para atuar com segurança da informação
+- 🚀 Em busca de oportunidades para atuar na área
 
 ---
 
@@ -26,4 +26,4 @@
 
 
 
-💬 Sempre aprendendo, sempre curioso. Se quiser trocar ideia sobre segurança, programação ou projetos, só chamar!
+
