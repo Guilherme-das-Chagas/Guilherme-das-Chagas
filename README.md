@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Guilherme 
 
 - 🎓 Estudante de Engenharia de Software  
-- 🔐 interessado por Cibersegurança
 - ⚙️ Programador Back end 
 - 🧠 Curioso por tecnologia
 - 🚀 Em busca de oportunidades para atuar na área
