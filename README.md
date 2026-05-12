@@ -17,7 +17,7 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-4B8BBE?style=flat&logo=gnubash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 ## 🎓 Formação
